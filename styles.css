@@ -1,0 +1,72 @@
+h1 {
+  text-align: center;
+  background-color: #FDCA40;
+  color: #080708;
+  border: solid #080708 5px;
+  width: 100%;
+}
+
+section {
+  background-color: #DF2935;
+}
+
+h2 {
+  padding: 10px;
+  background-color: #3772FF;
+  text-align: center;
+  border: solid #080708 5px;
+  width: 100%;
+}
+h2 span{
+  background-color: #e6e8e6;
+  color: #080708;
+}
+
+h3{
+  border: solid #080708 5px ;
+  text-align: center;
+  width: 100%;
+}
+h3 span {
+  color: #080708;
+  background-color: #e6e8e6;
+}
+
+ul {
+  display:inline-table;
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol {
+  display:inline-table;
+  text-align: center;
+  list-style-position: inside;
+}
+
+li {
+  border: solid #080708 2px;
+}
+.produce {
+  width: 45%;
+}
+
+.pantry {
+  width: 30%;
+}
+
+.frozen {
+  width: 45%;
+}
+
+.dairy {
+  text-align: center;
+  width: 50%;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
